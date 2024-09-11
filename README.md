@@ -4,5 +4,9 @@
 ## Steps to run the project
 
 '''
-conda create -n mchatbot python=3.8 -y
+python -m venv mchatbot
+'''
+
+'''
+mchatbot\Scripts\activate
 '''
