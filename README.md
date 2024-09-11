@@ -10,3 +10,7 @@ python -m venv mchatbot
 '''
 mchatbot\Scripts\activate
 '''
+
+'''
+pip install -r requirements.txt
+'''
